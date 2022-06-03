@@ -1,3 +1,5 @@
 Just another file commitet in feature-1 branch.
 
 This file was modified locally
+
+New line in feature-2 branch
